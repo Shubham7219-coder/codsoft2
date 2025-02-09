@@ -1,0 +1,31 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/free-vector/abstract-orange-background_698452-1534.jpg?ga=GA1.1.1761028822.1737183992&semt=ais_incoming");
+    height: 400px;
+    width: 500px; 
+    margin: 50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.heading {
+    color:black;
+    background-color: aliceblue;
+    margin:auto;
+    height: 70px;
+    padding: 20px;
+    width: 370px;
+    text-align: right;
+    border-radius: 10px;
+}
+
+.paragraph {
+    background-color:black;
+    color:aliceblue;
+    height: 60px;
+    width: 60px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin: 22px;
+    border-radius: 10px;
+}
